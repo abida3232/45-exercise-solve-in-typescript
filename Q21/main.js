@@ -1,0 +1,6 @@
+var Itcourse = {
+    courseName: "Typescript",
+    Location: "Governer House Sindh",
+    OnsiteStudents: 50000
+};
+console.log(Itcourse);
